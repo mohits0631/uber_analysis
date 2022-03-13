@@ -8,5 +8,6 @@ Performed using the following Python libraries -
 - Seaborn
 - Plotply
 - Folium
-- Pylab
+- Pylab  
+
 [Take a look here](https://nbviewer.org/github/mohits0631/uber_analysis/blob/master/uber_analysis.ipynb)
